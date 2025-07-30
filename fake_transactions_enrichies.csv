@@ -1,0 +1,501 @@
+Transaction_ID,Date,Heure,Montant,Pays,Type,Compte_vérifié,Score_suspicion,Raisons_suspicion
+46685257-bdd6-40fb-8667-1ad11c80317f,2025-07-11,20,469.27,Northern Mariana Islands,Achat,True,30,Pays inhabituel
+ad3c2d6d-1a3d-4fa7-bc89-60a923b8c1e9,2025-07-26,23,3010.12,Czech Republic,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+07a0ca6e-0822-48f3-ac03-1199972a8469,2025-07-04,7,1316.75,Benin,Transfert,True,30,Pays inhabituel
+06cb0fb3-9a1d-4644-815e-f6d13b8faa18,2025-07-27,21,912.94,Cuba,Virement,True,30,Pays inhabituel
+8b8148f6-b38a-488c-a65e-d389b74d0fb1,2025-07-20,18,169.62,Congo,Paiement,True,30,Pays inhabituel
+cf36d58b-4737-4190-96da-1dac72ff5d2a,2025-06-30,0,169.6,Cyprus,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+6c307511-b2b9-437a-a8df-6ec4ce4a2bbd,2025-07-16,7,59.84,Senegal,Virement,True,30,Pays inhabituel
+c37459ee-f50b-4a63-b71e-cd7b27cd8130,2025-07-16,17,2011.23,Fiji,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+5be6128e-18c2-4797-a142-ea7d17be3111,2025-07-16,7,919.08,Bosnia and Herzegovina,Paiement,False,30,Pays inhabituel
+bacfb3d0-0b1f-4163-8e9f-f57f43b7a3a6,2025-07-22,0,1231.25,Netherlands Antilles,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+60e7a113-ec1b-4ca1-b91e-1d4c1ff49b78,2025-07-03,10,20.8,Martinique,Retrait,True,30,Pays inhabituel
+9e574f7a-a0ee-49ae-9453-dd324b0dbb41,2025-07-17,6,3503.56,Mexico,Retrait,True,30,Pays inhabituel
+0bbb2599-11ce-4dd2-b45e-d1f03139d32c,2025-07-11,2,1786.43,Montserrat,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+daf61a26-146d-4f31-bc37-7a4c4a15544d,2025-07-11,11,238.69,Sierra Leone,Retrait,False,30,Pays inhabituel
+7412b293-4729-4739-a14f-f3d719db3ad0,2025-07-17,1,200.68,Tonga,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+ab9099a4-35a2-40ae-9af3-05535ec42e08,2025-07-12,12,202.61,Central African Republic,Achat,False,30,Pays inhabituel
+12476f57-a5e5-45ab-aefc-fad8efc89849,2025-07-29,20,362.75,Reunion,Virement,False,30,Pays inhabituel
+3eabedcb-baa8-4dd4-88bd-64072bcfbe01,2025-07-07,18,743.93,Norfolk Island,Transfert,True,30,Pays inhabituel
+ece66fa2-fd51-46e6-851b-4cf36123fdf7,2025-07-27,1,565.54,Kyrgyz Republic,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+c4b032cc-d7c5-44a5-9304-317faf42e12f,2025-07-02,2,344.22,Cyprus,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+50c187fc-ce17-4b4e-8837-b8a3d261a7ab,2025-07-19,12,946.37,Denmark,Retrait,False,30,Pays inhabituel
+f16287e4-e9c3-49e0-b602-f8ac10f1bc81,2025-07-27,20,150.23,Ethiopia,Retrait,True,30,Pays inhabituel
+a7cad415-366e-416f-908e-bad7b7c93acf,2025-07-24,11,345.52,Turkey,Retrait,True,30,Pays inhabituel
+757750a9-a491-40b2-aa1f-ca65e27a984d,2025-07-06,21,456.28,Indonesia,Retrait,True,30,Pays inhabituel
+8fb5d27b-beb7-4919-bf22-faf823bed01d,2025-07-26,19,608.93,Estonia,Transfert,True,30,Pays inhabituel
+e5d7b875-6dad-46c7-95a7-6d79bf3c4c06,2025-07-28,5,1537.94,Estonia,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+ff5e9ff0-ff50-4de4-b825-67b85cabcc97,2025-07-06,8,222.74,Iran,Virement,True,30,Pays inhabituel
+0c0fd195-c17a-408a-9745-d6d87e570ddf,2025-07-05,21,722.03,Madagascar,Retrait,True,30,Pays inhabituel
+ae340454-cac5-468c-a8f4-9481a0a04dc4,2025-07-20,7,897.5,Cape Verde,Achat,False,30,Pays inhabituel
+988c24c9-61b1-4d22-a280-1c4510435a10,2025-07-22,12,47.56,Nauru,Retrait,True,30,Pays inhabituel
+dc5c0eed-8da0-465b-b898-97b9405cacec,2025-06-30,6,935.33,Malta,Virement,False,30,Pays inhabituel
+e2817efd-ae84-4217-9d53-434bb88139b9,2025-07-26,6,186.96,Pitcairn Islands,Paiement,False,30,Pays inhabituel
+5715bd6f-a416-4293-84c2-e2e3444ea7c8,2025-07-05,20,67.26,Sao Tome and Principe,Paiement,True,30,Pays inhabituel
+00d4af59-7427-4ca3-a87d-06ca6f4cc69a,2025-07-12,8,2973.69,French Polynesia,Transfert,True,30,Pays inhabituel
+e9a1fa6f-81f7-4d1c-adbc-2134c30ff46e,2025-07-05,23,3370.63,Macao,Virement,False,45,"Pays inhabituel, Transaction hors horaires"
+a39231a7-d777-4477-8c66-e0a8a013ac6e,2025-07-24,23,1652.33,Trinidad and Tobago,Virement,False,45,"Pays inhabituel, Transaction hors horaires"
+c333e861-5fb8-416c-a720-797d32ebd689,2025-07-07,18,363.29,Netherlands,Paiement,False,30,Pays inhabituel
+87c5421e-ec24-43c5-8754-108ff4188f3f,2025-06-30,7,102.78,Mauritania,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+1ca35cfb-04fc-4d82-bd15-438552fbe43b,2025-07-17,2,1152.75,Nepal,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+4eb93eff-ce88-4b2d-94e8-0839fc3e058b,2025-07-11,4,580.09,Turkey,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+f26b4776-913e-4de2-a0c5-3cb83da9c2a9,2025-07-03,19,130.15,Azerbaijan,Achat,False,30,Pays inhabituel
+11b7e948-d0e6-4660-bc69-dee1bb5e4bcf,2025-07-25,12,683.55,Belize,Virement,False,30,Pays inhabituel
+79ac1b1e-a8e5-4e0c-a0de-435d2031d750,2025-07-26,16,34.99,Seychelles,Retrait,True,30,Pays inhabituel
+9b49bd26-df57-459a-8715-a10343dac043,2025-07-20,21,2400.42,Chad,Achat,False,30,Pays inhabituel
+badcc32a-c159-4f53-8a0f-4efbedcd465e,2025-07-09,20,299.46,Croatia,Retrait,True,30,Pays inhabituel
+abf3ad39-fec2-4bbe-a624-5bfa4fcca39a,2025-07-18,9,1086.26,Rwanda,Paiement,True,30,Pays inhabituel
+1efa2197-7394-488f-847f-d9b4e64d1bcb,2025-07-12,14,373.55,Kazakhstan,Achat,False,30,Pays inhabituel
+969b6662-0562-4059-968c-c69b1064005c,2025-07-26,16,734.11,Czech Republic,Transfert,True,30,Pays inhabituel
+122c9a56-01d7-4256-b860-2ab696a402f2,2025-07-02,20,791.22,Denmark,Retrait,True,30,Pays inhabituel
+dc1110c1-080a-4dfb-a7c9-9b26114125c6,2025-07-16,4,204.39,Denmark,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+ab4220a7-474a-493b-bced-df2d839fbc50,2025-07-23,17,3492.81,Barbados,Virement,True,30,Pays inhabituel
+ef7ddc76-b92d-422b-a1df-306f8a0b3c33,2025-07-27,19,1492.25,Croatia,Retrait,False,30,Pays inhabituel
+7914c120-c8dc-419f-be35-11287900f7f9,2025-07-19,0,2805.09,Montserrat,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+6e595ed3-a8b3-47fa-98d0-752b1825bc54,2025-07-17,9,2252.15,Comoros,Transfert,True,30,Pays inhabituel
+baa4b71a-dd24-47ac-b78e-edb3693dffbc,2025-07-02,7,911.05,Jamaica,Virement,True,30,Pays inhabituel
+1931e9ee-a56c-4941-bbf2-4050a748dbcf,2025-07-02,2,2549.44,Peru,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+dc96925e-ccf3-4171-96dc-8907ba6c34ab,2025-07-05,17,92.66,Iraq,Transfert,True,30,Pays inhabituel
+72d8567d-894a-45e4-b0b1-87ef310c0c00,2025-07-06,21,218.13,Egypt,Paiement,True,30,Pays inhabituel
+3ff350bf-766e-4b15-874e-bc192ef91276,2025-07-03,8,46.28,Jamaica,Virement,False,30,Pays inhabituel
+8ce21ea3-db20-456e-9c81-5fe7ceda8bbb,2025-07-04,6,393.53,Kenya,Virement,True,30,Pays inhabituel
+d605e770-8a63-4881-bfd0-f9d5a6f2f7b8,2025-06-30,22,492.13,Australia,Retrait,False,30,Pays inhabituel
+3c835dc0-d944-4fa5-80e9-ab30ed2662e9,2025-07-08,21,316.56,Bermuda,Retrait,False,30,Pays inhabituel
+dd59ba71-36b8-4481-bb3a-4e3e7c52fa17,2025-07-19,16,1764.56,Ireland,Paiement,True,30,Pays inhabituel
+008d4127-6104-41e3-aa25-a8880f02bad0,2025-07-18,7,441.23,United Kingdom,Transfert,True,30,Pays inhabituel
+747b6dba-c8fe-4ccd-88b8-d9c6ed3049cf,2025-07-13,10,329.8,Estonia,Achat,True,30,Pays inhabituel
+fed4057d-bb02-4576-b512-c4c3b253d218,2025-07-26,18,782.41,Jamaica,Transfert,True,30,Pays inhabituel
+309d258c-27a0-43d7-bc96-7f79b7e99aca,2025-07-14,2,151.9,Panama,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+bc594585-9445-48c0-8ef8-c2d6f7fd5646,2025-07-26,2,1620.48,Cuba,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+0cd620c2-0ea2-422b-9048-67babf7b539b,2025-07-28,2,77.48,Bahamas,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+87f7e1fb-da4b-49ca-ab5c-f46780bacd64,2025-07-07,8,4334.15,Lesotho,Paiement,True,30,Pays inhabituel
+d9f195d0-1482-4f53-8201-0c62f5f59b22,2025-07-09,17,1479.48,Azerbaijan,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+dca02eec-acda-4acc-9165-e21098543881,2025-07-11,7,221.54,Bangladesh,Paiement,False,30,Pays inhabituel
+91d63f78-e3e9-4e99-b10c-718b1eb0e38a,2025-07-11,6,5.54,Iraq,Achat,True,30,Pays inhabituel
+14fcdd54-9e8f-4965-8a2c-827e98326856,2025-07-20,21,1689.9,Morocco,Paiement,False,30,Pays inhabituel
+50fd9d3f-85d5-4695-90b2-b633956b8c0c,2025-07-12,13,1227.1,Palestinian Territory,Paiement,False,30,Pays inhabituel
+3d1a85dd-506e-4a9a-b758-588dab73295b,2025-07-12,23,1305.66,Costa Rica,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+4ccc9bc2-a53f-4a28-abf3-e3fc21813d25,2025-07-22,1,1475.21,Indonesia,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+12922f83-ef8c-485b-807a-30f2edd4253b,2025-06-30,3,76.93,Germany,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+ff002d4d-9020-49e4-bf9a-b5c29f044aed,2025-07-04,6,443.89,Kuwait,Virement,False,30,Pays inhabituel
+43e42caf-8181-48cc-b691-47eb89a2688b,2025-07-06,4,123.15,Barbados,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+e117dac3-119c-4ea3-a180-50815958a499,2025-07-11,8,1988.53,Venezuela,Paiement,True,30,Pays inhabituel
+d5704f32-702c-4d20-a862-18b848f4ef12,2025-07-26,2,976.3,Heard Island and McDonald Islands,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+fcbb4e59-fbdd-4f7c-9c96-e9ec4d71c366,2025-07-25,1,401.82,Romania,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+4ca415ea-8dfa-4a56-912d-bc9aaaf91531,2025-07-05,2,65.67,Algeria,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+1d8cbbac-43b4-49ef-a260-e70fe0ccedc5,2025-07-05,13,372.49,Wallis and Futuna,Paiement,False,30,Pays inhabituel
+48212ddb-45b8-4cd9-a7cb-6f2a8da01097,2025-07-29,6,393.31,Samoa,Paiement,True,30,Pays inhabituel
+afffcfd2-341e-440b-97c7-00aab7b56ea7,2025-07-12,5,1307.88,Cote d'Ivoire,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+e87d1c78-e7c4-41c7-8049-7b717d106c60,2025-07-02,12,1014.89,Macedonia,Retrait,False,30,Pays inhabituel
+46d483f3-d450-481c-ac6f-7633a2607723,2025-07-02,9,2182.25,Bermuda,Paiement,False,30,Pays inhabituel
+a319dcb4-217d-45a0-8568-11cd5563f616,2025-07-12,4,639.07,Afghanistan,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+b4a69f3c-8d3a-4d99-b11c-21c9bdc14f1f,2025-07-20,6,127.37,Central African Republic,Achat,True,30,Pays inhabituel
+f1eedba3-1343-4e61-9ca3-c4480279b6a6,2025-07-07,23,1249.13,Moldova,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+951f58d0-5e84-4058-95a8-04eb093923de,2025-07-26,1,1430.39,Mauritius,Virement,False,45,"Pays inhabituel, Transaction hors horaires"
+4eea04e7-0ab5-4bde-a0a0-45026e068097,2025-07-17,16,823.89,Cameroon,Virement,True,30,Pays inhabituel
+dc570131-f8e1-4aa7-8bce-abdeeededb07,2025-07-01,1,1473.89,United Arab Emirates,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+3fe12e47-ae9b-4c36-b5c7-936c5b9962c6,2025-07-04,5,680.81,United Arab Emirates,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+dfed2c43-e256-46dc-8f54-86b7c7b5b2bc,2025-07-19,21,739.68,Guinea,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+ee0caeb5-ecfe-4b99-a790-cebdbfddc3d9,2025-07-11,3,557.81,Nicaragua,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+cf8ebc5a-ccc5-4569-b9e8-a3692999b735,2025-07-08,18,25.75,Tonga,Virement,True,30,Pays inhabituel
+bc8f7d29-2dea-4493-8658-663a698c206f,2025-07-16,19,114.17,Turkmenistan,Achat,False,30,Pays inhabituel
+ab7f089a-cd5f-4822-a966-08aaee49f329,2025-07-12,21,31.93,Slovenia,Virement,False,30,Pays inhabituel
+1bac27a7-b386-47a4-8991-603f28c13091,2025-07-18,8,1011.73,Ethiopia,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+38f16a81-787f-4425-9bcc-c47709e9db0a,2025-07-09,7,377.4,Tunisia,Retrait,False,30,Pays inhabituel
+4e20fd1a-5983-46e3-b5d6-6ed4eb1fa9f2,2025-07-11,4,710.44,Svalbard & Jan Mayen Islands,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+6601ddd0-3170-4437-a8f7-ef5a060edf5b,2025-07-15,10,2381.27,Czech Republic,Achat,True,30,Pays inhabituel
+c5f8bc16-f786-4b50-91c5-8ef0dd463c09,2025-07-13,14,286.74,Fiji,Virement,True,30,Pays inhabituel
+adf4e62d-6651-429e-8268-690ba43825b5,2025-07-26,2,528.28,Guernsey,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+e08596db-1d87-4966-8710-d430f071d879,2025-07-12,16,1408.75,Greenland,Retrait,True,30,Pays inhabituel
+43f59a85-fbc9-487a-b668-a61794a1875d,2025-07-01,11,259.81,Christmas Island,Achat,True,30,Pays inhabituel
+ba81edd9-587e-4344-af3f-920c98b8e4cc,2025-07-15,11,80.1,Botswana,Retrait,True,30,Pays inhabituel
+1d9af659-82ec-4f2d-bbf6-e16f9b3080d5,2025-07-18,14,342.14,Jordan,Virement,False,30,Pays inhabituel
+0b5cea6a-4135-4e8c-b0a9-00ad939b462d,2025-07-21,19,175.81,United Arab Emirates,Virement,True,30,Pays inhabituel
+89d7fd6c-ce77-4f00-acf2-7e7685197ff4,2025-07-09,21,2654.95,Afghanistan,Virement,False,30,Pays inhabituel
+aa0b7b14-f2e9-402d-91e9-cdaa6e6981a3,2025-07-16,21,1650.89,Haiti,Achat,True,30,Pays inhabituel
+1fe771d6-d917-4793-a9d3-c2e6505cc686,2025-07-14,8,1003.49,Niger,Achat,True,30,Pays inhabituel
+5380b904-688c-4015-aab9-7e494f2d4796,2025-07-19,23,2051.52,Macedonia,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+311c6eb6-2095-4ef6-8ded-f9fb4bb00f20,2025-07-20,8,1627.97,Qatar,Retrait,True,30,Pays inhabituel
+bf85bf0e-ad64-456c-a10f-aa3ff0bbac67,2025-07-08,22,206.5,Papua New Guinea,Retrait,True,30,Pays inhabituel
+8c459ce2-67f4-4ad5-8d0b-0d1a91b0e1d9,2025-06-30,21,2230.81,New Zealand,Retrait,False,30,Pays inhabituel
+c9277d9b-6e0d-4648-b5ce-884149732d6c,2025-07-28,8,775.1,Gabon,Achat,True,30,Pays inhabituel
+7118e364-7709-4749-927e-ecfaa79ac9aa,2025-07-21,20,1647.35,Netherlands,Paiement,False,30,Pays inhabituel
+cb323e35-7922-4ac2-82dc-4c8e36b5229a,2025-07-08,1,2264.24,Peru,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+a9f25336-83f4-49a9-88a6-39d015b52908,2025-07-16,4,382.73,Palestinian Territory,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+3c20592f-c04a-46c4-b3b6-3fe1d1843324,2025-07-15,23,116.59,Bermuda,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+0640be0f-25b8-4d4b-b2fa-2de8ce7ae7f6,2025-07-02,17,258.69,Czech Republic,Achat,True,30,Pays inhabituel
+d98868dd-9c7c-4377-b9a2-8903fbe33b24,2025-07-03,2,557.06,Ecuador,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+935f2b0a-a138-4ddc-a2d9-de5d6a18ce4c,2025-07-09,11,1703.83,Korea,Virement,True,30,Pays inhabituel
+664fa663-7e8f-4095-a24c-69b6b24445a7,2025-07-11,13,1971.34,Saint Barthelemy,Transfert,True,30,Pays inhabituel
+e4855aa1-016b-4287-b008-05cca7f36ae9,2025-07-05,9,6.98,Cameroon,Retrait,True,30,Pays inhabituel
+cdda24ba-2d06-48cf-b805-f9076cd66193,2025-07-25,11,714.88,Slovakia (Slovak Republic),Transfert,True,30,Pays inhabituel
+eadf5085-3fcb-4546-8eb2-25790cdb1ca4,2025-07-05,21,540.27,Kyrgyz Republic,Achat,False,30,Pays inhabituel
+aae65fc1-76f2-4bfe-8d29-a36f222282e1,2025-07-25,17,251.17,Korea,Paiement,True,30,Pays inhabituel
+c1581092-f335-4ba3-913a-7052986f9025,2025-07-21,7,127.68,Moldova,Transfert,True,30,Pays inhabituel
+81392443-e45b-412e-b822-5688d0a44432,2025-07-20,13,411.91,New Caledonia,Achat,True,30,Pays inhabituel
+e5af6e39-7227-44e6-8c41-561be827a1b9,2025-07-07,23,2863.12,Switzerland,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+425a609f-7337-4599-b984-4388dc8aee30,2025-07-12,21,390.38,Samoa,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+c715b2b9-c40c-4d91-86fd-e062a33dc7af,2025-07-25,5,731.45,Tajikistan,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+709b7d97-464c-44af-bd3f-3799a07295e9,2025-07-03,1,1214.09,Libyan Arab Jamahiriya,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+55fa1ab8-458f-4f19-bc07-c57449257af1,2025-07-15,6,451.97,Rwanda,Paiement,False,30,Pays inhabituel
+269cd696-236c-4b87-94a0-bccb8a476a87,2025-07-11,9,3567.8,Uganda,Transfert,True,30,Pays inhabituel
+36c59dac-b4d7-428e-a71e-3ee2b1a6b1f1,2025-07-03,0,3282.01,Hungary,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+7746d0ba-8ae8-405b-94b4-a48268586eba,2025-07-20,10,290.06,Israel,Retrait,True,30,Pays inhabituel
+63b4c08b-6b8e-469f-9538-5b0e34f3193c,2025-07-28,8,687.66,Bahamas,Retrait,False,30,Pays inhabituel
+e172b725-db52-4a58-8500-0bc6b20dcb6e,2025-07-27,21,357.93,Yemen,Virement,False,30,Pays inhabituel
+5a0cdd7c-f157-4470-8182-67c47a1b5806,2025-07-14,0,335.25,Hong Kong,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+f41402b1-e442-4ebb-9a7b-909563d62a39,2025-07-20,5,37.58,Sao Tome and Principe,Virement,False,45,"Pays inhabituel, Transaction hors horaires"
+ccc42903-8bcf-43a1-bc10-fa52bf5d2fdf,2025-07-29,1,940.49,Martinique,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+45df16b6-382c-443f-bcfc-9b793875394c,2025-07-21,11,698.52,Ukraine,Retrait,False,30,Pays inhabituel
+ab3b4d37-560c-45ee-a38c-254c076e2bba,2025-07-19,19,52.85,Libyan Arab Jamahiriya,Virement,True,30,Pays inhabituel
+eb67146a-77a6-417c-972b-61082a405f12,2025-07-06,12,326.63,Saint Kitts and Nevis,Virement,True,30,Pays inhabituel
+64de82e6-e82c-4d7b-86e7-45f988bc539c,2025-07-28,8,2388.86,Niger,Achat,False,30,Pays inhabituel
+a48b3dbe-157d-44a1-86f0-28ffa9ba5a27,2025-07-20,0,273.86,Monaco,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+0cdf742b-2e85-4b21-b631-de9ddde9f863,2025-07-12,11,156.53,Burkina Faso,Paiement,True,30,Pays inhabituel
+53ac2ab9-7467-4cd9-b62f-5e5c53cd6268,2025-07-16,21,672.27,Hong Kong,Retrait,False,30,Pays inhabituel
+c083b73a-473b-4358-a10e-6a64e1301617,2025-07-20,21,4244.04,Senegal,Achat,False,30,Pays inhabituel
+04f64d86-7866-4765-94f7-ce8dd5bcb8d0,2025-07-26,16,277.14,El Salvador,Retrait,False,30,Pays inhabituel
+39669fa7-5997-4043-b3b1-025bfff9f585,2025-07-03,10,1115.16,Austria,Paiement,False,30,Pays inhabituel
+c1156d6d-0a4e-4b70-a6d9-64a3f510ab53,2025-07-01,17,1433.89,Slovakia (Slovak Republic),Transfert,True,30,Pays inhabituel
+05379ff6-d6d7-43b8-b309-4d353f4df561,2025-07-07,13,271.33,Zambia,Paiement,True,30,Pays inhabituel
+1d48a071-ab61-47b1-b93b-4c3220500494,2025-07-27,19,1302.75,Dominican Republic,Virement,False,30,Pays inhabituel
+41992fdf-b310-42f0-b70c-779837cc863b,2025-07-17,12,458.52,Yemen,Virement,True,30,Pays inhabituel
+bf780e3f-f6b7-41f7-9b74-92459b1bc895,2025-07-05,9,1000.5,Chad,Retrait,True,30,Pays inhabituel
+4fa03f26-f6f7-40cc-a9ec-8e49d1bdb8c0,2025-07-05,13,1003.84,Slovakia (Slovak Republic),Virement,False,30,Pays inhabituel
+93676a02-4fdc-4e1b-adcb-8cb60692dc63,2025-07-18,14,767.39,Morocco,Paiement,False,30,Pays inhabituel
+13748146-32c5-4d89-b70b-3420f1043785,2025-07-28,21,94.63,Indonesia,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+1a16342c-3e2b-4091-a092-f52ad4a057a7,2025-07-14,23,1803.64,Portugal,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+1efd76e9-ce37-44af-99b4-9350af2b99b4,2025-07-27,9,386.81,Thailand,Virement,False,30,Pays inhabituel
+6daa2e68-8861-4e18-98e2-58880a8381be,2025-07-17,2,206.43,Slovenia,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+033d2bce-575a-4d2c-a5c5-650c8186a576,2025-07-20,7,41.63,Bangladesh,Transfert,True,30,Pays inhabituel
+f5f62c97-6efb-43b1-9b04-98637d7ddbed,2025-07-17,0,893.78,Swaziland,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+b5122df8-75b1-4a55-9426-2982e43e4288,2025-07-07,15,1131.85,Norfolk Island,Virement,True,30,Pays inhabituel
+f7294951-8591-41d2-bbda-02422d174fc9,2025-07-13,14,16.73,Jordan,Paiement,True,30,Pays inhabituel
+c64ee6e3-89c5-431a-ab6c-1016cee624d0,2025-07-23,22,717.63,New Zealand,Paiement,False,30,Pays inhabituel
+97ac6aa8-bb24-48a3-9363-57b66f81cf4f,2025-07-13,12,256.82,Lao People's Democratic Republic,Transfert,True,30,Pays inhabituel
+ef43613c-d4aa-49a3-bed8-c56cda09dfa0,2025-07-04,20,1036.12,Gibraltar,Achat,True,30,Pays inhabituel
+c01f36bf-3e6d-458b-b367-c28de1b294de,2025-07-22,13,191.6,Fiji,Transfert,True,30,Pays inhabituel
+561e16d1-6105-416b-ab0e-664e9c3eb2d5,2025-07-01,22,1174.21,Mongolia,Virement,False,30,Pays inhabituel
+7cd0129d-2e8d-4e87-9334-20e6d9d80b8d,2025-07-10,1,488.96,Lithuania,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+4797b2c9-5720-4246-8223-623bcc3ebdde,2025-07-28,3,2760.34,Guinea,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+0299436a-8e48-4223-86b9-8991e14eb70d,2025-07-25,14,147.94,Reunion,Virement,False,30,Pays inhabituel
+b856d035-3dc9-4290-95ea-bb2730e912f2,2025-07-19,14,417.13,Yemen,Virement,False,30,Pays inhabituel
+b0cbc61f-3d85-4e89-8217-14298e200724,2025-07-23,17,120.44,Liechtenstein,Paiement,True,30,Pays inhabituel
+cafda613-72bb-412d-bda6-7785b63b4dc3,2025-06-30,23,2586.19,Oman,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+b118f68d-6786-4506-b8ba-8abc4b5305e5,2025-07-11,8,2098.33,Bermuda,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+79279973-5e78-4fd7-94e0-d3baa9f948b2,2025-07-26,16,298.33,Gambia,Paiement,True,30,Pays inhabituel
+bef59fe6-ff23-4d5f-aced-d15d58007c02,2025-07-26,8,1078.76,Malta,Paiement,True,30,Pays inhabituel
+455ac762-7428-4656-b3ee-4d3b5a104129,2025-07-14,22,1699.48,Greenland,Retrait,True,30,Pays inhabituel
+314d3441-b8a6-471f-9ee3-4dc43b048a8b,2025-07-15,8,810.13,El Salvador,Retrait,False,30,Pays inhabituel
+c31edbbc-f36c-462b-892e-6161be2d740a,2025-07-08,17,754.28,British Indian Ocean Territory (Chagos Archipelago),Achat,True,30,Pays inhabituel
+46c8adfe-7bf4-4042-bd15-31c83764fbda,2025-07-28,4,276.88,Congo,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+fb02bebb-4872-4a4d-98c7-472a864e9a13,2025-07-04,22,97.73,Senegal,Transfert,True,30,Pays inhabituel
+5c62b3a2-3a3c-463e-8bd6-cee631b1b099,2025-07-08,2,2275.12,Syrian Arab Republic,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+2067bdac-88bd-43d1-b540-b30e039f3a25,2025-07-13,10,2306.77,Gabon,Virement,False,30,Pays inhabituel
+4ac9778d-8da8-4ee4-8df5-6ac6f96b648a,2025-07-06,13,1002.67,Aruba,Achat,True,30,Pays inhabituel
+1a432f0a-7daa-49f0-80b6-fce2de53790a,2025-06-30,13,414.05,Northern Mariana Islands,Paiement,True,30,Pays inhabituel
+70c2903f-7a8d-43aa-b82a-65e048ca7651,2025-07-16,18,429.57,Montenegro,Paiement,False,30,Pays inhabituel
+f0e98b3b-40a2-4c60-8d27-0659f72ada9b,2025-07-23,0,1294.47,Colombia,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+7de31a51-6694-4343-90ba-58e3d2762bdc,2025-07-03,12,2274.1,Brazil,Paiement,True,30,Pays inhabituel
+26d794d3-0db9-4301-afbb-411aa1235a8c,2025-07-07,15,2181.13,Montserrat,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+15ce6a66-4dc8-4a1e-b2f9-e5fa90164161,2025-07-12,13,1513.56,Sudan,Paiement,True,30,Pays inhabituel
+9b37a22b-6a8a-416f-83b2-90d08edddfcd,2025-07-28,12,1027.31,British Indian Ocean Territory (Chagos Archipelago),Retrait,False,30,Pays inhabituel
+85c7504b-c693-4a11-b9c6-a1ca9e50aa42,2025-07-18,23,87.89,Somalia,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+dc33e1f9-4c1f-45ab-b156-29eee893be3d,2025-07-28,4,176.29,Korea,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+0f6b40d0-9efb-458b-9191-b3634e2d6645,2025-07-29,12,2288.23,Japan,Virement,True,30,Pays inhabituel
+3531968d-c342-4d2b-b295-456e19675f06,2025-07-10,2,932.49,Saint Vincent and the Grenadines,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+3d67cde9-2834-44c0-94c8-b3b4a911d192,2025-07-08,14,9.24,Estonia,Transfert,True,30,Pays inhabituel
+68949b8d-00af-4b3a-a812-859a1337739e,2025-07-21,8,107.0,Mexico,Paiement,False,30,Pays inhabituel
+085b15fb-4a8f-4810-b84c-2f29980402a2,2025-07-11,6,1089.16,Portugal,Paiement,False,30,Pays inhabituel
+dc0f2fcf-b3f6-4e0d-8860-3b32b4fb0eb9,2025-07-22,10,5.07,France,Paiement,False,0,Aucune
+43b9da13-ec85-4f37-bbc1-a987aff8754d,2025-07-28,13,175.32,Barbados,Retrait,True,30,Pays inhabituel
+6cd5e859-32a4-47b2-af04-e57dcdccc33a,2025-07-05,15,795.7,Panama,Achat,True,30,Pays inhabituel
+e88da719-2624-4b40-a5cb-63a2398d1ca6,2025-07-12,11,1177.32,Mauritius,Transfert,True,30,Pays inhabituel
+2a79ea68-0f44-404f-9247-ea4e246998e8,2025-07-14,20,1055.44,Sweden,Achat,True,30,Pays inhabituel
+ebd34616-91b7-4d8e-9301-6989bfbbb17f,2025-07-14,7,253.95,Nauru,Transfert,True,30,Pays inhabituel
+4dd8eb85-b04d-4376-b7fc-97031fd5a423,2025-07-19,19,1245.42,Kazakhstan,Transfert,True,30,Pays inhabituel
+7e695d0d-8a3c-4b5e-801e-f1da45b1ed25,2025-07-21,4,270.82,Western Sahara,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+6e996e3e-e3b1-47fc-8a34-50fc9918ee46,2025-07-15,18,393.63,Belgium,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+3a9aca5e-1761-42ed-869f-14f140181c6e,2025-07-27,22,1372.36,Netherlands Antilles,Retrait,False,30,Pays inhabituel
+c3c75611-ffe3-4a49-854f-92fff366bad4,2025-07-13,5,1048.77,Myanmar,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+2cd94cbb-c19a-458c-835b-1c8c0a4c9f7f,2025-07-22,5,1891.96,Montserrat,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+473544f9-ea83-4f00-b135-f221a6c9537f,2025-07-08,18,1071.81,Malaysia,Achat,False,30,Pays inhabituel
+7de1bdfe-d072-4b5c-a281-40446f962882,2025-07-04,18,840.04,Mozambique,Paiement,False,30,Pays inhabituel
+5230dfbd-5553-42fe-a889-803e5913f9d3,2025-07-05,22,98.36,Latvia,Transfert,True,30,Pays inhabituel
+b194990b-6961-429e-946e-035a292bd156,2025-07-24,18,458.42,Togo,Transfert,True,30,Pays inhabituel
+d045dd1c-6684-49e3-b1f8-343ea99f1318,2025-07-26,22,308.16,France,Retrait,True,0,Aucune
+409d3602-5084-4242-968b-1625746f7891,2025-07-15,18,279.7,Argentina,Achat,False,30,Pays inhabituel
+dd6ac7b8-6778-443b-85c5-b37af85e06a1,2025-07-24,17,3612.31,Brazil,Paiement,False,30,Pays inhabituel
+de8ede0b-a85c-4e4a-804b-6fabfcf56188,2025-07-26,2,499.39,Sweden,Virement,False,45,"Pays inhabituel, Transaction hors horaires"
+84b871bb-3005-48d2-8de0-51a669ca97d2,2025-07-17,0,2226.06,Kyrgyz Republic,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+71299889-a01a-4992-bf9d-3e64c1a6423b,2025-07-02,3,997.33,Niger,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+ed7bf656-218a-4536-8c99-a894445dcc38,2025-07-13,20,1583.83,Costa Rica,Paiement,True,30,Pays inhabituel
+1f15c7b6-7c16-428d-b2c0-8394e17f29e1,2025-07-01,13,698.44,Kazakhstan,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+b5b453ca-3d42-493c-8c9f-d3349bdf0377,2025-07-07,19,860.16,Niue,Virement,False,30,Pays inhabituel
+687213f9-8d60-4936-8380-2b708d03c91e,2025-07-04,14,678.29,Georgia,Paiement,False,30,Pays inhabituel
+1d0bc9bd-e9b5-45cf-9766-5cdafe049059,2025-07-22,10,217.21,Czech Republic,Transfert,True,30,Pays inhabituel
+276aa6ce-d507-45d9-a5d0-4d531e1242e3,2025-07-24,8,1281.76,Yemen,Paiement,True,30,Pays inhabituel
+b495db4e-8245-4fb4-8ab7-706eb77350ca,2025-07-13,14,329.58,Venezuela,Virement,False,30,Pays inhabituel
+78e3654b-faf1-4ff0-bb85-179ad5b077e0,2025-07-11,10,24.62,Israel,Achat,False,30,Pays inhabituel
+30cbd755-6232-417a-a507-41818d1fb540,2025-07-29,10,1036.97,Korea,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+dd30de89-22f2-45f2-a11b-868dbf0d073d,2025-07-03,6,194.93,Madagascar,Retrait,False,30,Pays inhabituel
+6a39aaa6-daba-450d-8a3d-d859c5ce099c,2025-07-16,10,2821.08,Falkland Islands (Malvinas),Retrait,False,30,Pays inhabituel
+d20f87d0-4465-4d6b-81fb-18b3c9a7d91f,2025-06-30,17,3077.56,Vietnam,Achat,True,30,Pays inhabituel
+96418ced-d664-4264-8c6e-27ffb9de7a3a,2025-07-28,2,2463.51,Finland,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+7250ee18-260a-4962-9d81-b7f57d5911c6,2025-07-26,15,462.29,Palestinian Territory,Virement,True,30,Pays inhabituel
+c34b9fbb-8d4a-45b8-951a-c8ea585a0afa,2025-07-26,22,15.58,Liberia,Paiement,False,30,Pays inhabituel
+de9e3757-5260-401e-aecf-67d2749176f4,2025-07-09,14,2635.52,Honduras,Achat,True,30,Pays inhabituel
+3bcabf85-620a-40ac-9261-549d3d225c30,2025-07-19,9,558.94,Qatar,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+b489d070-7914-48a8-bea4-ff31517400f8,2025-07-18,22,3400.84,Aruba,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+d21c82f8-cada-4f80-a9e7-82d4fd08b32c,2025-07-07,21,3313.74,Hungary,Virement,False,30,Pays inhabituel
+80962718-2051-4cef-897a-1e10f6febc0e,2025-07-28,15,1917.39,Lithuania,Virement,False,30,Pays inhabituel
+d85480f0-dfca-40b7-99b1-7e80dea4ae17,2025-07-21,13,348.78,Greenland,Virement,False,30,Pays inhabituel
+03edd1f8-74f9-4d17-a912-b4bf86a4bae4,2025-07-06,11,486.29,Bolivia,Paiement,False,30,Pays inhabituel
+2784378f-f84f-46b3-a79f-bfafdef57689,2025-07-03,9,1904.73,Ireland,Retrait,True,30,Pays inhabituel
+56abf2f1-43d8-4870-b81d-baa1c8120a8e,2025-07-19,3,381.15,Latvia,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+da330aa1-541c-4fcd-9a0d-4a5f148f8b74,2025-07-25,3,185.72,Pakistan,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+b7fddd71-a075-4927-9110-b492f4427e0b,2025-07-23,6,813.74,Hong Kong,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+118405ad-9e11-42cd-8930-aef68a80068d,2025-07-11,8,2751.29,Tunisia,Virement,False,30,Pays inhabituel
+ff574e2b-4991-4b9b-abc2-026faf34cf65,2025-07-11,3,1190.83,Niue,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+1933918c-fa74-4761-af18-c1081723199d,2025-07-04,7,844.11,San Marino,Retrait,True,30,Pays inhabituel
+e746ccb9-4ca9-4f07-b1aa-0f6a2a96e1e2,2025-07-01,9,102.23,Kenya,Achat,True,30,Pays inhabituel
+4b1a269b-0e5d-4462-8bd0-0ef2530a37df,2025-07-17,8,954.53,Aruba,Achat,True,30,Pays inhabituel
+87fa841a-3e83-491f-a544-0fe06e417d47,2025-07-20,17,4610.57,Holy See (Vatican City State),Retrait,True,30,Pays inhabituel
+2b840c67-2e18-4554-8ae2-8e66ae8a7813,2025-07-08,20,150.92,Monaco,Paiement,True,30,Pays inhabituel
+9ea556aa-61ee-4c5b-9eef-580f9c07a751,2025-07-11,0,730.5,Belgium,Virement,False,45,"Pays inhabituel, Transaction hors horaires"
+3b70b3a1-24a3-4cf2-9549-c931e9af299d,2025-07-22,15,2098.61,Luxembourg,Paiement,False,30,Pays inhabituel
+aab612c9-415d-474a-b5a6-69814104a8b5,2025-06-30,10,1350.03,Northern Mariana Islands,Transfert,True,30,Pays inhabituel
+49a23a89-e6b5-492c-b71a-d655cdfc6ee0,2025-07-26,8,1194.07,United Arab Emirates,Paiement,True,30,Pays inhabituel
+5876fd09-f1fa-4665-b115-33f312e89d10,2025-07-28,2,1212.29,Cayman Islands,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+b0b862ef-6c9f-42b9-b647-8986a3917c99,2025-07-12,2,445.49,French Southern Territories,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+ffd6f232-32ff-4294-8d57-d880d865d69a,2025-07-18,4,347.56,Korea,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+61a11729-3cb9-4350-9b4d-a0fe7bb38605,2025-07-27,2,1657.37,Timor-Leste,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+b303f438-fe21-40d0-8bbe-4aff9326dffd,2025-07-14,17,1661.33,Guinea-Bissau,Paiement,True,30,Pays inhabituel
+6553867d-a881-4fd3-947d-577bfa5a91ca,2025-07-13,16,2017.95,Angola,Paiement,False,30,Pays inhabituel
+c73f6e1b-af90-4e3c-9d75-0e9890e0b95f,2025-07-02,14,2444.62,Algeria,Retrait,False,30,Pays inhabituel
+d534ee1d-7f29-44f5-bec3-9a379b3d74bd,2025-07-13,9,716.09,United States Minor Outlying Islands,Virement,True,30,Pays inhabituel
+cd4b69a9-9b68-4c88-bae9-09fecc8218da,2025-07-17,19,696.18,Singapore,Achat,True,30,Pays inhabituel
+402913ec-9ef2-493e-b0ac-7d7ba2f963a3,2025-07-06,20,1600.95,Cyprus,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+a5769411-a0a1-4839-a745-770418dfbc3c,2025-07-01,21,1049.72,Nigeria,Achat,True,30,Pays inhabituel
+945ef2e4-088a-43ec-b0d9-c9f8c9e26074,2025-07-17,7,1210.55,Georgia,Transfert,True,30,Pays inhabituel
+4b8c5bdc-e8dd-4e5a-9712-fb1621a4344f,2025-07-15,5,1588.62,Saint Martin,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+21d53971-3367-49b5-acf6-bf756a5e6920,2025-07-26,14,2207.32,San Marino,Virement,False,30,Pays inhabituel
+80759f1f-87e5-40fe-9da8-d6d2f8b38a8b,2025-07-13,9,412.48,Turkey,Achat,True,30,Pays inhabituel
+d31edf1a-e9ff-4cae-81c8-ca8c2a1f955a,2025-07-23,9,470.94,Switzerland,Retrait,False,30,Pays inhabituel
+56b60afc-ded2-45d0-bf1e-83664b8e63d4,2025-07-05,2,98.7,Sri Lanka,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+c1101266-2408-46dc-9346-d1a9f6802cdb,2025-07-10,20,863.41,Lao People's Democratic Republic,Virement,True,30,Pays inhabituel
+fadd7ea3-aca5-42fd-b966-442aad238d36,2025-07-19,13,36.6,Tokelau,Achat,True,30,Pays inhabituel
+171e16cc-5da3-4f1b-8eac-0a33cdf974a7,2025-07-19,20,626.61,Tanzania,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+746cdb77-1fa3-42e8-895c-cd9943b38eb4,2025-07-17,4,782.29,American Samoa,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+95a5bafa-431d-429f-ac1e-86d8bfbf397b,2025-07-18,5,337.63,Peru,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+1bbc91f7-5f18-4583-b0b6-f83fa377f6f1,2025-07-11,14,893.63,Swaziland,Achat,False,30,Pays inhabituel
+f1738856-e25d-46eb-9e9a-9f83066803ee,2025-07-27,22,30.98,Latvia,Retrait,False,30,Pays inhabituel
+a5cc8bf7-38ab-454c-9c2e-58deea4e3617,2025-07-03,8,38.06,Greece,Virement,False,30,Pays inhabituel
+b379cb1e-e8cd-40cc-b6da-3ca0d2e82f38,2025-07-14,14,1729.35,Norfolk Island,Achat,True,30,Pays inhabituel
+0b9bd934-23c8-4d30-9dde-7969688613db,2025-07-01,13,446.59,Pakistan,Retrait,False,30,Pays inhabituel
+18e19331-1dba-4267-be1c-a5a1fef518a6,2025-07-11,0,135.89,Gabon,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+7421ff46-637e-4b01-a2ba-e10e899ca782,2025-07-18,21,738.65,Tuvalu,Virement,True,30,Pays inhabituel
+f22b5b98-b24c-464f-be3e-6e57f30a9e32,2025-07-26,21,1469.65,Paraguay,Retrait,True,30,Pays inhabituel
+278ed00d-ba02-46ef-be05-5787965befdf,2025-07-20,5,243.12,Italy,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+9d9b6231-7d45-48ef-956c-e8ea19597b5a,2025-07-19,8,975.22,Palau,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+b0b63bcf-0860-4833-879d-0cdaf396ea37,2025-07-17,20,89.21,Wallis and Futuna,Paiement,True,30,Pays inhabituel
+3c71e0be-f357-4560-b1d7-966571818dcf,2025-07-17,15,53.07,Cuba,Retrait,False,30,Pays inhabituel
+8b621d41-5e09-49ee-af88-bdecfb1e143b,2025-07-17,10,757.91,Bolivia,Retrait,True,30,Pays inhabituel
+f7dc67e0-3097-4b2b-86a0-2a9b65ec7acd,2025-07-05,5,777.91,Bahamas,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+1777e8cb-7468-4b98-92fe-2fded918b3e5,2025-07-10,22,1014.54,Yemen,Paiement,False,30,Pays inhabituel
+0577aea9-f899-4246-98de-8ebba3b5cece,2025-07-02,21,1294.96,Norway,Paiement,True,30,Pays inhabituel
+203c8c25-fd23-4def-be5a-87e35560db22,2025-07-27,14,3723.56,Solomon Islands,Achat,False,30,Pays inhabituel
+8de08fc2-c3e1-4a85-946e-f10411906f50,2025-07-10,8,726.29,Costa Rica,Retrait,True,30,Pays inhabituel
+3ba5cd2f-dea4-4c19-9024-3d723748967f,2025-07-15,12,390.02,Myanmar,Virement,True,30,Pays inhabituel
+989240ac-e689-43a9-89e4-8e8c25c61c45,2025-06-30,21,1585.65,Singapore,Virement,False,30,Pays inhabituel
+fcce96f6-250a-4578-bbe9-4499dbc080fd,2025-07-06,13,315.85,Falkland Islands (Malvinas),Achat,True,30,Pays inhabituel
+1c24220e-2cab-47e7-8c6b-66e5402adf9c,2025-07-01,16,577.98,Mauritania,Retrait,False,30,Pays inhabituel
+c9d6a63b-ca3c-4f5f-9bb5-c40c03cde2e3,2025-07-11,20,81.71,Bulgaria,Paiement,True,30,Pays inhabituel
+43ef2016-2c9b-462e-840a-3aae52e2afd9,2025-07-02,6,25.68,Myanmar,Retrait,True,30,Pays inhabituel
+1d181ee9-86ad-4a8c-abc4-123ebde13c1b,2025-07-03,9,3287.38,Brunei Darussalam,Paiement,False,30,Pays inhabituel
+83639007-5cae-4610-872c-1fe372c22a16,2025-07-28,3,1807.77,Lebanon,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+f206c269-38b7-4c07-80fb-929673b6a09b,2025-07-29,22,1190.64,Botswana,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+ddf275eb-e8a3-4341-8881-9065ba2c98ce,2025-07-25,17,525.86,Aruba,Achat,False,30,Pays inhabituel
+07f97d05-f6ca-4b8b-a4b1-f99175424646,2025-07-02,2,190.31,Gabon,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+afa415e5-6d20-4496-a6d0-6371d8e88ebb,2025-07-05,14,170.12,Lesotho,Achat,True,30,Pays inhabituel
+12d0498d-718d-4d05-a8e2-2743b65feea9,2025-07-03,15,288.01,Liechtenstein,Retrait,False,30,Pays inhabituel
+204e178c-10d0-4d11-a5f9-34bf9bb96155,2025-07-13,13,796.79,Gibraltar,Paiement,False,30,Pays inhabituel
+b64fa54a-8c61-4654-95da-75c1a21150f9,2025-07-15,7,1253.85,Niger,Paiement,True,30,Pays inhabituel
+4b7e6b3c-87d2-42a6-98ee-ac2bfe9fecaa,2025-07-22,12,1079.39,Hong Kong,Transfert,True,30,Pays inhabituel
+cb08587d-1963-426d-ae21-8b099afd4015,2025-07-05,2,328.41,Macedonia,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+c4dabddb-e0b1-4aba-a6a2-7967a79b44b6,2025-07-26,10,3098.1,Timor-Leste,Virement,False,30,Pays inhabituel
+73991a47-6e19-4042-b70b-c063dd90e79e,2025-07-11,0,1339.02,Saint Helena,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+66132e69-7418-4109-93d1-bf0f56c438e4,2025-07-20,18,808.23,Isle of Man,Virement,False,30,Pays inhabituel
+50018b7b-6d40-47f4-9003-2b3518578baf,2025-07-12,4,946.03,Saint Lucia,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+ec48bf55-afd3-40c4-a713-582cf41ea3ac,2025-07-23,11,544.04,Holy See (Vatican City State),Retrait,False,30,Pays inhabituel
+17dded81-15da-405c-94ef-00aa175a81ec,2025-07-20,14,284.66,Bangladesh,Retrait,True,30,Pays inhabituel
+cfd01cbd-5f65-48ce-bd21-bc11be9d61ee,2025-07-06,22,440.01,Bhutan,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+8fc42092-f4e5-49e5-9622-93480f5ae9d3,2025-07-27,7,1418.18,Micronesia,Paiement,True,30,Pays inhabituel
+5a856750-692a-4139-9f4a-8ca1ab85fd59,2025-07-20,10,14.5,Greenland,Paiement,False,30,Pays inhabituel
+f7e8f8e5-0d2b-41ef-b897-6ec5ea74bb18,2025-07-13,12,123.38,Trinidad and Tobago,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+93f277cc-1a85-410d-9a05-7c114ffca6b1,2025-07-24,1,47.09,Nepal,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+39681c81-7b70-43b8-a81f-dec3279c658a,2025-07-05,3,41.58,Croatia,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+1d691fba-5e18-4b24-8e67-6a01d86a6460,2025-07-13,16,1934.2,Guernsey,Paiement,True,30,Pays inhabituel
+d85c16bd-6dda-4f8d-8ea6-0f4c39e58ff0,2025-07-27,23,1216.24,Montenegro,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+accb461a-9d13-4363-9f29-4a8bd1846c39,2025-07-27,20,642.78,Seychelles,Transfert,True,30,Pays inhabituel
+d4578ad9-a867-4096-add8-77c89be71737,2025-07-12,15,102.96,Anguilla,Retrait,False,30,Pays inhabituel
+c32d4526-b3e4-410a-85f5-0c522e2fbf77,2025-07-14,19,676.52,Antarctica (the territory South of 60 deg S),Paiement,True,30,Pays inhabituel
+2e709838-0190-4620-99dc-abd056febfb9,2025-07-06,10,641.45,Uruguay,Virement,False,30,Pays inhabituel
+2451e5a4-11d0-49b2-a699-cd99a847bce7,2025-07-01,10,190.19,Monaco,Paiement,True,30,Pays inhabituel
+604e46cb-3712-42d1-87cd-b6a1bf012e32,2025-07-20,19,568.9,Bermuda,Achat,True,30,Pays inhabituel
+4fc77768-5ebb-4ca5-a84b-f9625744f596,2025-07-15,20,508.34,Korea,Retrait,True,30,Pays inhabituel
+15bfbe97-98a2-4f1c-914d-cfaef10013a7,2025-07-02,23,956.72,Singapore,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+0cbd3c03-9e2a-44ac-8122-b5b3284c03d2,2025-07-03,3,1008.11,Cape Verde,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+7c54535f-6c8c-4b6a-a974-d079716fda0a,2025-07-29,5,46.36,Faroe Islands,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+c143f426-372f-471a-85ee-432d6a07f213,2025-07-24,1,469.38,Kenya,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+4882d73c-1c63-45ab-ae0e-d1e8585d3f86,2025-07-28,9,983.12,Brazil,Retrait,False,30,Pays inhabituel
+0ba078e8-4ef4-42c1-aac9-331686e52753,2025-07-10,13,699.44,Libyan Arab Jamahiriya,Transfert,True,30,Pays inhabituel
+01f7c7ec-0e06-40cd-996d-5c50fc04a168,2025-07-09,16,1941.35,Indonesia,Paiement,True,30,Pays inhabituel
+2321d1e1-c471-44c0-b613-6e15f200c261,2025-07-12,5,1074.97,Gabon,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+7f54a511-01fa-464e-9eb7-4b5653ffd3a2,2025-07-20,19,177.85,French Guiana,Paiement,True,30,Pays inhabituel
+b423ccde-8857-4117-a155-46672112507c,2025-07-11,15,73.18,China,Virement,True,30,Pays inhabituel
+ce6322b6-ab05-447f-9556-b37d8f0881ee,2025-07-17,7,1028.39,Macao,Paiement,False,30,Pays inhabituel
+0ad45230-bdf6-4ba5-9c9c-96de65a674c2,2025-07-21,14,26.87,Barbados,Retrait,True,30,Pays inhabituel
+dcb33df3-13ee-4dc6-abd1-4d2c75b27455,2025-07-15,14,881.35,Andorra,Retrait,True,30,Pays inhabituel
+b5a1b949-6788-4209-92ca-525a6de59332,2025-07-20,2,2817.26,Montserrat,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+f758dce2-0556-4aea-a7b0-32831d7c0098,2025-07-15,18,856.78,French Guiana,Retrait,False,30,Pays inhabituel
+75c8e90d-9e3d-450d-b296-d9f0cd2372c2,2025-07-17,22,491.3,Chile,Retrait,False,30,Pays inhabituel
+3e49fd09-1b19-48b8-9830-20816fcc57dd,2025-07-21,9,1030.83,Benin,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+6550f74a-1422-473f-8622-68d16683e107,2025-07-15,15,612.96,Myanmar,Achat,True,30,Pays inhabituel
+c77444cb-5543-4c3c-b8b8-f24e56ea57b3,2025-07-08,12,788.81,Samoa,Virement,False,30,Pays inhabituel
+87d5b7be-1d30-4990-a21b-030782af085c,2025-07-24,18,2838.13,Belarus,Retrait,False,30,Pays inhabituel
+59e1ac09-5970-4859-86b6-e4ade7ea8d5a,2025-07-07,0,487.93,Congo,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+328067a1-4187-422b-a57d-5e521a5165ca,2025-07-08,0,3249.09,Dominica,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+a7cf705c-c257-4f73-829d-782b2722796e,2025-07-03,19,2357.58,Netherlands Antilles,Paiement,False,30,Pays inhabituel
+7e7e7419-a0c1-4035-85d9-5f51f387e1bd,2025-07-22,7,217.9,Christmas Island,Virement,False,30,Pays inhabituel
+72eb7474-9458-454e-8287-4f069050f7ef,2025-07-27,7,71.88,Saudi Arabia,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+52bdc661-9fe0-48c7-bc8d-5b93a2a2e91f,2025-07-15,21,106.23,Norway,Transfert,True,30,Pays inhabituel
+71348c2a-780b-4657-917b-355b70944bdb,2025-07-14,20,18.39,Canada,Achat,False,0,Aucune
+5a18e2a3-0e61-4bcd-9767-490046510367,2025-07-24,14,99.21,South Africa,Achat,False,30,Pays inhabituel
+09a0a0f6-73b0-4091-b634-c1694f76e388,2025-07-02,23,1148.87,Barbados,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+a508dc95-13a4-4492-897d-e16dd4ea120a,2025-07-04,9,73.85,Heard Island and McDonald Islands,Retrait,False,30,Pays inhabituel
+7674456f-626d-419d-81cf-325298159d6c,2025-07-28,5,384.16,New Zealand,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+e5582e16-bd29-4de9-8ab4-923bf4488385,2025-07-01,17,1863.53,Mexico,Retrait,False,30,Pays inhabituel
+a6ded1d8-9258-47b7-8f50-1889e8b77f7b,2025-07-09,5,23.55,Korea,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+269ed4c9-8059-4b93-b9c2-d2e49ae1a991,2025-07-03,9,1684.53,Gibraltar,Retrait,True,30,Pays inhabituel
+d65e59dd-e62d-4d06-8f9b-85581a7f195b,2025-07-16,14,331.08,Korea,Achat,True,30,Pays inhabituel
+2c2cd22b-a568-45c6-812a-1f9b15969802,2025-07-01,7,125.75,Rwanda,Paiement,False,30,Pays inhabituel
+707df251-fdb1-429e-b010-ed13b526b22d,2025-07-25,2,1193.16,Egypt,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+5f733a3e-5d28-4aa4-a8a3-97799c1c3517,2025-07-13,8,991.4,Maldives,Virement,True,30,Pays inhabituel
+adcc3daf-569f-4ab3-8643-530068a51c68,2025-07-29,14,2099.42,Iceland,Retrait,False,30,Pays inhabituel
+55ab946d-a5b5-4dc2-a181-c85eca0ac6ac,2025-07-03,18,1328.29,Austria,Paiement,False,30,Pays inhabituel
+62f5df2b-adaa-44ca-8ed6-ad5e18318aa3,2025-07-13,3,1627.0,Greenland,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+f6e39356-a814-4562-9a00-3f16b9469bcf,2025-07-29,0,331.33,El Salvador,Virement,False,45,"Pays inhabituel, Transaction hors horaires"
+952e6abb-14dd-4061-9557-36f8267eddce,2025-07-06,19,195.33,Tunisia,Transfert,True,30,Pays inhabituel
+a7f333b3-f7ba-455e-8f6b-58c8598ddaec,2025-07-19,20,1388.76,United States Virgin Islands,Paiement,False,30,Pays inhabituel
+15b02530-f020-4992-b576-255e98549f22,2025-07-15,20,1644.21,Bulgaria,Paiement,True,30,Pays inhabituel
+54170a17-caaa-4bbe-a4bb-f962606e0e1c,2025-07-06,4,4657.0,Moldova,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+bd20563b-f275-45f3-9436-a7a8b3ecb951,2025-07-25,9,532.08,Paraguay,Paiement,True,30,Pays inhabituel
+822c4d32-6c64-4c15-aba3-01cba561e1e9,2025-07-17,3,465.24,Bermuda,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+f37fd50d-2e25-45ee-8f11-d8dc5cd33369,2025-07-10,12,1497.95,Andorra,Paiement,False,30,Pays inhabituel
+31274148-7c7c-404e-8422-d03ef29a6339,2025-07-10,21,416.73,Guam,Virement,False,30,Pays inhabituel
+d82c7565-4bb9-47ec-93c1-175427aa7cbc,2025-07-04,18,2670.14,Burundi,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+bd17c5e8-d5ca-49ab-8a2e-6a93c5580bb2,2025-07-25,20,1954.84,Macedonia,Achat,False,30,Pays inhabituel
+c42cbc39-e05b-46c5-9636-3094a97431db,2025-07-06,19,560.36,Argentina,Paiement,False,30,Pays inhabituel
+2e4bebc4-2989-4880-a77d-1be96070b6a1,2025-07-08,1,1389.78,Nauru,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+5d42b9e9-692e-47b6-8b2f-6d5c700b5d5f,2025-07-11,14,1404.63,Saint Helena,Paiement,True,30,Pays inhabituel
+bfa016c2-c09c-4506-88f1-096d9c4ffb46,2025-07-21,11,108.84,Kenya,Achat,False,30,Pays inhabituel
+f7315749-4f39-49a8-bd3a-258288b4f474,2025-07-22,17,2328.45,Djibouti,Retrait,True,30,Pays inhabituel
+ada58417-5e2a-432d-b1ab-0b56d5c9fdc7,2025-07-27,12,703.71,United Kingdom,Retrait,True,30,Pays inhabituel
+c7332304-4822-4120-84f9-eccd7630a8a7,2025-07-18,3,1751.33,Kazakhstan,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+297ca4ff-f75d-499f-ab2d-5b0987079ad4,2025-07-09,21,385.74,Macao,Transfert,True,30,Pays inhabituel
+400035f0-df7d-4dd7-a36e-16089acb394a,2025-07-02,1,2258.79,Spain,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+8df661da-5f07-41a5-9fc6-20ce7b07fd31,2025-07-04,4,492.99,Norway,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+1feae1e0-d9e6-44b3-8412-a335d88c656d,2025-07-13,2,10.9,Rwanda,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+73069588-45d5-468d-a90a-3abbc35b9fea,2025-07-24,18,2357.91,Belize,Transfert,True,30,Pays inhabituel
+f24823ab-177a-4a5f-affe-33b3d4bf7a4b,2025-07-10,10,95.73,Cameroon,Transfert,True,30,Pays inhabituel
+ee33688d-597e-4845-a277-18c5737d1fb6,2025-07-01,8,384.65,Svalbard & Jan Mayen Islands,Transfert,True,30,Pays inhabituel
+5fbbf0b1-8083-49c8-a57e-01c90da23e5c,2025-07-11,17,2996.97,Israel,Retrait,True,30,Pays inhabituel
+397b5f51-5ffa-46ef-94e4-180cfe9936a3,2025-07-01,3,3007.95,Hungary,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+b6f6dbf1-d6d4-41cc-995d-82f8ee4a9b5d,2025-07-16,0,852.0,Ghana,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+4970ed9a-09ce-4cfb-a339-ba1925637cc3,2025-07-22,18,999.23,Somalia,Retrait,True,30,Pays inhabituel
+b49e04cc-c243-49e7-a387-eaf6d4c3a832,2025-07-22,5,595.01,Qatar,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+144823f7-e7e6-46c7-8158-24639d8776a0,2025-06-30,4,347.02,Kiribati,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+8c7e6f42-2646-4af9-95c0-244d3735262d,2025-07-29,23,398.49,Equatorial Guinea,Achat,False,45,"Pays inhabituel, Transaction hors horaires"
+49c10669-c6b3-4fe6-9c76-bdf66c5a6c93,2025-07-11,14,1116.32,Malta,Retrait,True,30,Pays inhabituel
+6b79afcc-3d0a-4f0c-8c39-4ec71f317405,2025-07-22,14,1395.84,Gabon,Virement,True,30,Pays inhabituel
+7ff4cec6-e7b7-44c6-9631-2a801c612ec2,2025-07-28,19,1568.2,Bahrain,Achat,False,30,Pays inhabituel
+93364f7e-83ef-49f3-a1c7-cc8a04351b64,2025-07-11,14,1558.83,Martinique,Achat,True,30,Pays inhabituel
+0066853d-6de2-49a1-8a90-cd0c24c173b9,2025-07-29,15,95.64,Saint Barthelemy,Paiement,False,30,Pays inhabituel
+2ff3cde4-6aa4-4c9f-9217-04753d959e3f,2025-07-04,21,682.05,Guinea,Achat,False,30,Pays inhabituel
+f4124360-1153-4e99-9c50-8720f982f4e0,2025-07-25,22,59.28,Mali,Paiement,True,30,Pays inhabituel
+81f38dd4-fd03-4ada-8952-518581e03a5e,2025-07-26,2,797.46,Mauritius,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+0b251279-785a-45d0-9f92-a62163f4c69d,2025-07-18,2,582.56,Angola,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+5b6a8102-0428-4378-bf50-23f440ef3935,2025-07-03,19,2186.62,Holy See (Vatican City State),Virement,False,30,Pays inhabituel
+a0d572c8-a837-4e68-bba2-05ca3dba6da8,2025-07-05,12,432.19,Guatemala,Virement,False,30,Pays inhabituel
+551ff086-c1b5-45ca-bc35-36df94f79dba,2025-07-06,14,124.51,Sierra Leone,Virement,False,30,Pays inhabituel
+d0421dfa-56ab-487a-8bc7-8e815a304528,2025-07-08,3,154.31,Aruba,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+fb16f757-76f1-46ab-af47-5b49c775e395,2025-07-23,13,1433.43,Switzerland,Paiement,True,30,Pays inhabituel
+10275b53-2285-42ef-8fbe-4fe92ea9c542,2025-07-22,13,962.91,Niue,Retrait,False,30,Pays inhabituel
+ca862225-0b36-4356-b39b-77a84b1f0d7b,2025-07-09,12,106.61,Argentina,Paiement,True,30,Pays inhabituel
+4f612217-eef1-4694-90ca-e32d0aba590e,2025-07-25,10,87.86,Turks and Caicos Islands,Paiement,False,30,Pays inhabituel
+7930ba20-8b04-4f49-90be-73eefd372539,2025-07-12,21,1207.21,Indonesia,Retrait,False,30,Pays inhabituel
+493e904d-30ec-4796-a59b-457fc0d7ac73,2025-07-17,4,75.55,Argentina,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+a7de02cc-dda4-44a7-8c3c-e284c7e53bbb,2025-07-16,2,1725.19,Tokelau,Achat,True,45,"Pays inhabituel, Transaction hors horaires"
+6fdc0bad-5e36-4127-8ca1-b45c1fdd980a,2025-07-19,13,1225.0,Faroe Islands,Achat,False,30,Pays inhabituel
+62fb26d7-f4db-4a07-a506-f6707092947d,2025-07-16,4,84.85,Samoa,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+5e0a72ab-7f5d-4163-b12b-66807f072cb9,2025-07-25,18,88.65,Colombia,Virement,False,30,Pays inhabituel
+6cac028c-ba22-4065-9526-0718cd180a82,2025-07-03,21,4315.46,Ethiopia,Achat,False,30,Pays inhabituel
+2e326567-d284-454e-bebe-c0db9a3a6103,2025-07-26,11,468.84,Jersey,Paiement,True,30,Pays inhabituel
+53f28f11-147f-4570-9a43-db54523ae993,2025-07-14,9,463.06,French Polynesia,Virement,False,30,Pays inhabituel
+6d15f16f-b7b8-41a5-9a45-693d7227890e,2025-07-08,11,1675.58,Gambia,Achat,True,30,Pays inhabituel
+0ad7c9a2-7277-46ec-99fe-fbbc71a3fad2,2025-07-17,4,2942.16,Portugal,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+a3b442bd-4649-4296-af58-42c3ff86cc31,2025-07-02,3,4268.77,New Zealand,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+5d01f55f-67fd-44c4-a334-058aabd2b512,2025-07-24,3,1399.9,Belarus,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+f3ea0184-28f4-43ce-aded-da80bff9507d,2025-07-01,13,472.02,Spain,Virement,True,30,Pays inhabituel
+c8040fb7-ad97-4b67-9b89-e5cbd942644c,2025-07-21,19,87.19,Cambodia,Retrait,True,30,Pays inhabituel
+c74cc890-3c6a-4174-9136-34a520509c62,2025-07-17,5,1501.24,Antigua and Barbuda,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+084a6780-9136-41f8-b310-46dc6202bee6,2025-07-29,10,817.36,Guyana,Retrait,True,30,Pays inhabituel
+5ef787b8-f2e6-495f-b32e-2016add702c9,2025-07-18,5,552.03,Cape Verde,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+233ffc82-92ec-49af-93ae-c376c359810a,2025-07-25,2,2368.24,Kenya,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+4758367b-a649-4cdc-907b-907265e58f34,2025-07-12,2,117.88,Haiti,Virement,True,45,"Pays inhabituel, Transaction hors horaires"
+7fc15858-2fa0-4842-bc55-300b06a241af,2025-07-25,12,678.51,Brazil,Paiement,False,30,Pays inhabituel
+4303cbc1-1e25-45b8-8fc9-c86be9ddebf5,2025-07-12,10,11.42,Iceland,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+9ca3fbb3-ff11-48ba-b6ee-1640723ef466,2025-07-13,9,632.35,Romania,Retrait,True,30,Pays inhabituel
+333ee344-7dbf-4bc1-bfa6-23d0ea9e5c8d,2025-07-05,1,57.95,Puerto Rico,Transfert,True,45,"Pays inhabituel, Transaction hors horaires"
+2c33350c-73b9-41d8-92f5-131ada52d2ee,2025-07-21,19,126.49,Burkina Faso,Achat,True,30,Pays inhabituel
+d8741408-f7b2-47c7-ae92-ea71cf7dcb43,2025-07-15,8,125.03,Benin,Paiement,False,30,Pays inhabituel
+8ccc9cea-109f-48ee-b5a4-720058f0dd23,2025-07-26,15,1047.57,Papua New Guinea,Virement,False,30,Pays inhabituel
+28524385-d9f2-4d0d-8cc9-f5f2e42e5037,2025-07-08,13,1370.6,French Guiana,Retrait,True,30,Pays inhabituel
+1f119c0f-3967-460a-823d-d1075c8ac066,2025-07-09,16,875.55,South Africa,Achat,False,30,Pays inhabituel
+7e7838c9-ca55-438b-bc9a-be10238d6f44,2025-07-01,13,3274.72,Somalia,Achat,False,30,Pays inhabituel
+77a7e8b7-5e70-465f-9280-c5aa8dd4595b,2025-07-26,21,469.8,Guyana,Virement,False,30,Pays inhabituel
+10d4de39-1612-47c9-a25d-f9a89ca8a5c4,2025-07-15,16,336.47,Bulgaria,Retrait,True,30,Pays inhabituel
+7a89cbeb-b807-478a-b788-f5d1ffe575f6,2025-07-25,7,2029.5,Indonesia,Paiement,True,30,Pays inhabituel
+932cae01-d2c6-4ee4-a8d0-a2a8c4e7f7dd,2025-07-03,0,253.08,Isle of Man,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+12fc7a87-a470-4d48-9128-b9b1f8ede0ca,2025-07-21,6,3302.87,Brunei Darussalam,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+20da8972-5832-4ee4-8471-b4b0ae1b9f69,2025-07-26,9,12.23,Lao People's Democratic Republic,Retrait,True,30,Pays inhabituel
+f75d1e3c-c48d-4650-ae95-22d696792482,2025-07-06,0,3502.53,Northern Mariana Islands,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+0e2f8958-de43-4e06-a924-706980bbae52,2025-07-06,5,44.12,Jersey,Transfert,False,65,"Pays inhabituel, Transaction hors horaires, Transfert depuis compte non vérifié"
+2976aab2-2a26-4770-8ddb-1b36272c0588,2025-07-15,17,2217.72,Malaysia,Transfert,False,50,"Pays inhabituel, Transfert depuis compte non vérifié"
+f28e4122-5894-47f1-b9b8-6bb2b596ca7c,2025-07-25,2,750.14,Vietnam,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+4027ab7d-1430-49a9-988f-1c9448b763d5,2025-07-09,13,4956.83,Ukraine,Achat,False,30,Pays inhabituel
+200b2903-4642-4c45-8d03-f17af4d375c1,2025-07-14,2,76.66,Norfolk Island,Retrait,False,45,"Pays inhabituel, Transaction hors horaires"
+a417c093-80a8-423d-97ea-ec838892042f,2025-07-08,18,807.11,New Zealand,Paiement,False,30,Pays inhabituel
+2bd3cdcd-2779-4685-94a5-3fdef10d27c8,2025-07-29,9,3483.58,Namibia,Achat,False,30,Pays inhabituel
+0a8bb5b4-9049-4583-ac86-a890d7b00bdc,2025-07-01,0,740.44,Guadeloupe,Retrait,True,45,"Pays inhabituel, Transaction hors horaires"
+c561b8dc-a436-4fcd-b2d3-f7610ba36279,2025-07-27,19,992.63,Belgium,Paiement,False,30,Pays inhabituel
+92779574-c457-4cc3-b5f7-89bca6b07458,2025-07-20,2,1189.9,Estonia,Paiement,True,45,"Pays inhabituel, Transaction hors horaires"
+e3954cb1-7f7f-4c0a-87c0-d116a394ed54,2025-07-26,7,606.13,Nicaragua,Paiement,False,30,Pays inhabituel
+7ba24588-4d56-4a3d-b4e7-069aa4540937,2025-07-11,16,987.67,French Guiana,Achat,False,30,Pays inhabituel
+4c24a053-67f5-4e02-af5b-8f47ceae71cf,2025-07-22,9,877.83,Sri Lanka,Retrait,True,30,Pays inhabituel
+7089fc6d-2877-45d9-8f56-75f8b048faa1,2025-07-20,10,2314.23,Barbados,Transfert,True,30,Pays inhabituel
+9b4e164b-5716-4c2e-b43a-da2a76e5ae78,2025-07-06,16,46.51,Liberia,Achat,True,30,Pays inhabituel
+bbf483ce-51be-480e-b7e6-a14cdc8a4922,2025-07-16,11,329.84,Germany,Retrait,True,30,Pays inhabituel
+83d5bceb-5edb-48ee-82ba-f0e02179e3f0,2025-07-27,7,3004.0,Iran,Achat,True,30,Pays inhabituel
+1f5d988f-776a-4f09-bde2-885951b1943c,2025-07-12,8,2209.68,Botswana,Transfert,True,30,Pays inhabituel
+0cf477ef-18c8-4616-a410-8e9a3f779cae,2025-07-14,19,608.18,Korea,Transfert,True,30,Pays inhabituel
+6b0ae0e3-9d89-4047-9d39-d7936257a4a2,2025-07-12,5,967.93,Yemen,Paiement,False,45,"Pays inhabituel, Transaction hors horaires"
+53d2d56d-d040-4587-a8e2-13bce6fdd7af,2025-07-28,18,324.87,Tonga,Virement,False,30,Pays inhabituel
+28caaa1d-c35b-4c2c-b098-f7b2500e15c0,2025-07-24,21,208.4,Saint Helena,Virement,False,30,Pays inhabituel
+4efc8248-e10b-4a47-bfae-b7487781321e,2025-07-24,20,623.06,Malawi,Retrait,True,30,Pays inhabituel
+8164ceec-64ab-451b-b1fa-c6e7170d7507,2025-07-22,14,435.95,Angola,Achat,False,30,Pays inhabituel
+0c74dc0f-5a57-4539-9556-0a2d3713b466,2025-07-02,14,876.24,Dominican Republic,Retrait,False,30,Pays inhabituel
+d7c4fe9c-e1e0-4ffc-98f6-fd7f7eb162f1,2025-07-22,18,80.92,Finland,Achat,False,30,Pays inhabituel
+1b84edc3-d8e0-49de-8217-ea0e896490ab,2025-07-20,16,3664.96,France,Achat,False,0,Aucune
+5da39a73-ba3d-47ff-83b4-7ee5e1e89e7e,2025-07-19,14,4283.87,Burkina Faso,Paiement,True,30,Pays inhabituel
